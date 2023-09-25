@@ -1,0 +1,17 @@
+object FDM: TFDM
+  Height = 480
+  Width = 640
+  object FDConnection: TFDConnection
+    Params.Strings = (
+      'DriverID=PG')
+    Transaction = FDTransaction
+    UpdateTransaction = FDTransaction
+    Left = 24
+    Top = 8
+  end
+  object FDTransaction: TFDTransaction
+    Connection = FDConnection
+    Left = 136
+    Top = 24
+  end
+end

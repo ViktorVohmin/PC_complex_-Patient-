@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.748,C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\Unit1.pas=C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\DM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\PRM.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,=C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.748,C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\Unit1.dfm=C:\Users\Viktor\Documents\GitHub\PC_complex_-Patient-\Patient_Registration_Module\DM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
